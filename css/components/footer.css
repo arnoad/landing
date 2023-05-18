@@ -1,0 +1,21 @@
+.footer {
+  padding: 60px;
+  background-color: rgb(49, 48, 48);
+  display: flex;
+  justify-content: center;
+}
+
+.fa-brands {
+  color: #1EDD88;
+  font-size: 40px;
+  margin: 10px;
+}
+
+.fa-solid {
+  color: red;
+}
+
+.links {
+  display: block;
+  text-align: center;
+}

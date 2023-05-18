@@ -1,0 +1,38 @@
+
+.title-card-container {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.card-img {
+  height: 100px;
+  width: 100px;
+}
+
+.cards {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  padding-top: 0;
+}
+
+.single-card {
+  box-shadow: 0 0px 5px rgb(230,230,230);
+  border-radius: 2px;
+  border: 1px solid rgb(237, 235, 235);
+  width: 230px;
+  padding: 20px;
+  display: block;
+  text-align: center;
+  margin: 10px;
+}
+
+p {
+  color: rgb(139, 139, 139);
+  font-size: 16px;
+}
+
+.container-cards {
+  margin: 0 auto;
+}
